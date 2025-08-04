@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Chris Hawkes.
 - 👀 I’m interested in using tech to create efficiency, solve problems, and make life a bit easier.
-- 🌱 I’m currently learning automated testing using Selenium Webdriver.
-- 💞️ I’m looking to collaborate on just about anything.
+- 🌱 I build custom solutions for SaaS customers.
 - 📫 How to reach me: connect with me on LinkedIn at https://www.linkedin.com/in/chrismhawkes/
